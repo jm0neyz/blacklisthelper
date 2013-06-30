@@ -1,0 +1,8 @@
+## Interface: 50300
+## Title: BlacklistHelper
+## Author: jm0neyz
+## Notes: A small addon to help with blacklisting PvP maps. Use /blh clear to clear blacklist maps.
+
+BlacklistHelper.lua
+
+
